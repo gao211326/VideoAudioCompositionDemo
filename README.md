@@ -1103,5 +1103,6 @@ CMSampleBufferRef sampleBuffer = [assetReaderAudioOutput copyNextSampleBuffer];
 终于一口气写完，讲述的不是很详细，还请各位看官见谅！请忽略那个弹钢琴的视频...辣眼睛
 由于`GitHub`上传文件的限制，导致工程中有几个视频和音频不能传上去，所以这里只好通过[网盘](https://pan.baidu.com/s/1IzuPea5sXaxOVr7lyNQkVQ)  密码:`mygj`
 
-
+将下载下来的资源放到这里面就ok了
+![23.png](https://upload-images.jianshu.io/upload_images/2525768-0f052c896cda0e15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 参考文章：[官方文档](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/05_Export.html)
